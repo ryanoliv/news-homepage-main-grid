@@ -76,7 +76,6 @@ body {
   font-family: "Inter", sans-serif;
   font-size: var(--font-size-m);
   padding-inline: min(11vw, 10rem);
-  margin-bottom: 2rem;
   transition: background-color 0.3s ease-in-out;
 }
 @media (max-width: 830px) {
@@ -92,7 +91,6 @@ body {
 @media (max-width: 500px) {
   body {
     padding: 1.5rem 1rem;
-    margin-bottom: 0;
   }
 }
 
@@ -392,4 +390,4 @@ body {
   }
 }
 
-/*# sourceMappingURL=main.min.css.map */
+/*# sourceMappingURL=main.comp.css.map */
